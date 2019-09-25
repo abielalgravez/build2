@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Program Files\PCL\PCLProjects\Telerehab_14\rs-post-processing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Program Files\PCL\PCLProjects\Telerehab_14\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Program Files\PCL\PCLProjects\Telerehab_14\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Program Files\PCL\PCLProjects\Telerehab_14\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Program Files\PCL\PCLProjects\Telerehab_14\example.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Program Files\PCL\PCLProjects\Telerehab_14\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{85C8AB6E-82F1-3C85-BBA3-16269213D3A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{917C8FED-ABD1-3777-89D6-03CF28BF0BBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
